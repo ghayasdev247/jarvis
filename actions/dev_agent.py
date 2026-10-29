@@ -564,6 +564,12 @@ def _build_project(
             break
 
         error_type = _classify_error(last_output)
+        if "winerror 2" in last_output.lower() or "command not found" in last_output.lower() or "cannot find the file" in last_output.lower():
+            log("WinError 2 / Command not found detected. Auto-correcting run_command to sys.executable entry point...")
+            run_command = f'\"{sys.executable}\" \"{project_dir / entry_point}\"'
+            time.sleep(0.5)
+            continue
+
         if error_type == "dependency_error" and auto_installs < 3:
             installed = _try_auto_install(last_output, project_dir)
             if installed:
@@ -615,6 +621,15 @@ def dev_agent(
 
     if not description:
         return "Please describe the project you want me to build, sir."
+
+    # Self-routing: If user accidentally passed wake word download to dev_agent, route to wake_word_control directly
+    desc_low = description.lower()
+    if any(k in desc_low for k in ("wake word", "hey jarvis", "wake_word")):
+        try:
+            from actions.wake_word_control import wake_word_control
+            return wake_word_control(parameters={"action": "download"}, player=player, speak=speak)
+        except Exception as e:
+            pass
 
     return _build_project(
         description  = description,

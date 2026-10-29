@@ -195,6 +195,8 @@ def _resolve_youtube(url_or_query: str, target_quality: str | None = None) -> tu
         query = url_or_query
     else:
         query = f"ytsearch1:{url_or_query}"
+    
+    # Updated opts to include cookies for bot detection workaround
     opts = {
         "quiet": True,
         "no_warnings": True,
@@ -202,6 +204,7 @@ def _resolve_youtube(url_or_query: str, target_quality: str | None = None) -> tu
         "noplaylist": True,
         "socket_timeout": 10,
         "nocheckcertificate": True,
+        "cookiesfrombrowser": ('chrome',),
     }
 
     try:

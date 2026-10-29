@@ -100,29 +100,16 @@ class ActionRegistry:
         rec = self._actions.get(name)
         if rec is None or not rec.valid:
             return f"Action '{name}' is not available."
-        try:
-            res = _call_handler(rec.handler, parameters, ctx or {}) or "Done."
-            # Check if tool output reports a fatal error or system failure
-            low = str(res).lower()
-            if any(err in low for err in ("winerror", "command not found", "command execution failed", "traceback (most recent")):
-                try:
-                    from core.self_heal import record_failure
-                    record_failure(rec.file or name, str(res)[:300], str(res))
-                except Exception:
-                    pass
-            return res
-        except Exception as e:
-            tb = traceback.format_exc()
-            self._logger(f"Action '{name}' crashed during run(): {e}")
-            try:
-                from core.self_heal import record_failure
-                record_failure(rec.file or name, str(e), tb)
-            except Exception:
-                pass
-            return (
-                f"Tool '{name}' failed: {e}. "
-                f"Failure recorded in self-healing system. H.O.M.E.R can autonomously repair this file using 'self_correct_code'."
-            )
+
+        from core.self_heal import autonomous_heal_and_execute
+        return autonomous_heal_and_execute(
+            action_name=name,
+            action_record=rec,
+            call_fn=lambda: _call_handler(rec.handler, parameters, ctx or {}) or "Done.",
+            parameters=parameters,
+            ctx=ctx or {},
+            logger=self._logger,
+        )
 
 
 
