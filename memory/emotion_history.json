@@ -1,0 +1,13 @@
+[
+  {
+    "mood": "FRUSTRATED",
+    "intensity": 0.85,
+    "detected_at": "2026-10-09 01:28:48",
+    "triggers": [
+      "damn",
+      "annoying",
+      "not working"
+    ],
+    "sample": "Damn, this annoying bug is still not working after 3 hours!"
+  }
+]

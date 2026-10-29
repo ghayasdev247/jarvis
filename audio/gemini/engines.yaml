@@ -1,0 +1,10 @@
+!!org.nobody.multitts.tts.engine.EngineConfig
+engines:
+- code: gemini
+  name: Gemini
+  note: ''
+  param: |-
+    {
+      "Host":"gemini.google.com"
+    }
+  type: inner

@@ -1,0 +1,46 @@
+google:
+- !!org.nobody.multitts.tts.speaker.Speaker
+  avatar: null
+  code: ur-pk-x-cfn
+  desc: Urdu (Pakistan)
+  extendUI: null
+  gender: 0
+  locale: ur-PK
+  name: Urdu (Pakistan) I
+  note: null
+  param: null
+  pitch: 1.0
+  sampleRate: 24000
+  speed: 1.0
+  type: 0
+  volume: 1.0
+- !!org.nobody.multitts.tts.speaker.Speaker
+  avatar: null
+  code: ur-pk-x-urf
+  desc: Urdu (Pakistan)
+  extendUI: null
+  gender: 0
+  locale: ur-PK
+  name: Urdu (Pakistan) II
+  note: null
+  param: null
+  pitch: 1.0
+  sampleRate: 24000
+  speed: 1.0
+  type: 0
+  volume: 1.0
+- !!org.nobody.multitts.tts.speaker.Speaker
+  avatar: null
+  code: ur-pk-x-urm
+  desc: Urdu (Pakistan)
+  extendUI: null
+  gender: 1
+  locale: ur-PK
+  name: Urdu (Pakistan) III
+  note: null
+  param: null
+  pitch: 1.0
+  sampleRate: 24000
+  speed: 1.0
+  type: 0
+  volume: 1.0

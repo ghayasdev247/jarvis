@@ -1,0 +1,160 @@
+{
+  "project_key": "JARV",
+  "next_id": 111,
+  "tickets": [
+    {
+      "key": "JARV-100",
+      "summary": "Implement Redis hot cache for session tokens",
+      "description": "Cache recent context and tokens to reduce latency.",
+      "issue_type": "Task",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "Hamad",
+      "created_at": "2026-10-09 01:01",
+      "labels": [
+        "performance",
+        "backend"
+      ]
+    },
+    {
+      "key": "JARV-101",
+      "summary": "[BUG] reports. Silenced here, before Qt initialises its logging.",
+      "description": "Found at ui.py:25\nDetails: reports. Silenced here, before Qt initialises its logging.",
+      "issue_type": "Bug",
+      "status": "To Do",
+      "priority": "High",
+      "assignee": "Hamad",
+      "created_at": "2026-10-09 01:01",
+      "labels": [
+        "code-todo",
+        "bug"
+      ]
+    },
+    {
+      "key": "JARV-102",
+      "summary": "[BUG] , not the fix.",
+      "description": "Found at ui.py:4659\nDetails: , not the fix.",
+      "issue_type": "Bug",
+      "status": "To Do",
+      "priority": "High",
+      "assignee": "Hamad",
+      "created_at": "2026-10-09 01:01",
+      "labels": [
+        "code-todo",
+        "bug"
+      ]
+    },
+    {
+      "key": "JARV-103",
+      "summary": "[TODO] \", no \"pass\" stubs.",
+      "description": "Found at actions\\dev_agent.py:218\nDetails: \", no \"pass\" stubs.",
+      "issue_type": "Task",
+      "status": "To Do",
+      "priority": "Medium",
+      "assignee": "Hamad",
+      "created_at": "2026-10-09 01:01",
+      "labels": [
+        "code-todo",
+        "todo"
+      ]
+    },
+    {
+      "key": "JARV-104",
+      "summary": "[TODO] scanner\",",
+      "description": "Found at actions\\email_manager.py:44\nDetails: scanner\",",
+      "issue_type": "Task",
+      "status": "To Do",
+      "priority": "Medium",
+      "assignee": "Hamad",
+      "created_at": "2026-10-09 01:01",
+      "labels": [
+        "code-todo",
+        "todo"
+      ]
+    },
+    {
+      "key": "JARV-105",
+      "summary": "[TODO] comments in src/ and create Jira tickets for each\"",
+      "description": "Found at actions\\jira_control.py:7\nDetails: comments in src/ and create Jira tickets for each\"",
+      "issue_type": "Task",
+      "status": "To Do",
+      "priority": "Medium",
+      "assignee": "Hamad",
+      "created_at": "2026-10-09 01:01",
+      "labels": [
+        "code-todo",
+        "todo"
+      ]
+    },
+    {
+      "key": "JARV-106",
+      "summary": "[BUG] reports. Silenced here, before Qt initialises its logging.",
+      "description": "Found at ui.py:25\nDetails: reports. Silenced here, before Qt initialises its logging.",
+      "issue_type": "Bug",
+      "status": "To Do",
+      "priority": "High",
+      "assignee": "Hamad",
+      "created_at": "2026-10-09 01:02",
+      "labels": [
+        "code-todo",
+        "bug"
+      ]
+    },
+    {
+      "key": "JARV-107",
+      "summary": "[BUG] , not the fix.",
+      "description": "Found at ui.py:4659\nDetails: , not the fix.",
+      "issue_type": "Bug",
+      "status": "To Do",
+      "priority": "High",
+      "assignee": "Hamad",
+      "created_at": "2026-10-09 01:02",
+      "labels": [
+        "code-todo",
+        "bug"
+      ]
+    },
+    {
+      "key": "JARV-108",
+      "summary": "[TODO] \", no \"pass\" stubs.",
+      "description": "Found at actions\\dev_agent.py:218\nDetails: \", no \"pass\" stubs.",
+      "issue_type": "Task",
+      "status": "To Do",
+      "priority": "Medium",
+      "assignee": "Hamad",
+      "created_at": "2026-10-09 01:02",
+      "labels": [
+        "code-todo",
+        "todo"
+      ]
+    },
+    {
+      "key": "JARV-109",
+      "summary": "[TODO] scanner\",",
+      "description": "Found at actions\\email_manager.py:44\nDetails: scanner\",",
+      "issue_type": "Task",
+      "status": "To Do",
+      "priority": "Medium",
+      "assignee": "Hamad",
+      "created_at": "2026-10-09 01:02",
+      "labels": [
+        "code-todo",
+        "todo"
+      ]
+    },
+    {
+      "key": "JARV-110",
+      "summary": "[TODO] comments in src/ and create Jira tickets for each\"",
+      "description": "Found at actions\\jira_control.py:7\nDetails: comments in src/ and create Jira tickets for each\"",
+      "issue_type": "Task",
+      "status": "To Do",
+      "priority": "Medium",
+      "assignee": "Hamad",
+      "created_at": "2026-10-09 01:02",
+      "labels": [
+        "code-todo",
+        "todo"
+      ]
+    }
+  ]
+}

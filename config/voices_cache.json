@@ -1,0 +1,1054 @@
+{
+    "Charon": {
+        "gender": "Male",
+        "style": "Male \u2022 General American \u2022 News & Podcast Host",
+        "description": "Informative and steady voice with a low pitch. Recommended for technical explainers or documentaries.",
+        "id": "charon",
+        "type": "prebuilt"
+    },
+    "Puck": {
+        "gender": "Male",
+        "style": "Upbeat / Lively",
+        "description": "Crisp, energetic, and engaging masculine voice."
+    },
+    "Aoede": {
+        "gender": "Female",
+        "style": "Female \u2022 General American \u2022 Video Voiceover & Host",
+        "description": "Breezy, light, and relaxed voice with a medium pitch. Recommended for lifestyle or travel vlogs.",
+        "id": "aoede",
+        "type": "prebuilt"
+    },
+    "Kore": {
+        "gender": "Female",
+        "style": "Firm / Clear",
+        "description": "Confident, assertive, and energetic feminine voice."
+    },
+    "Fenrir": {
+        "gender": "Male",
+        "style": "Excitable / Passionate",
+        "description": "Dynamic, vibrant, and enthusiastic masculine voice."
+    },
+    "Zephyr": {
+        "gender": "Female",
+        "style": "Bright / Dynamic",
+        "description": "Lively, clear, and modern feminine voice."
+    },
+    "Achernar": {
+        "gender": "Female",
+        "style": "Female \u2022 General American \u2022 Storyteller & Narrator",
+        "description": "Soft, calm, and soothing voice with a higher pitch. Recommended for quiet or personal storytelling.",
+        "id": "achernar",
+        "type": "prebuilt"
+    },
+    "Achird": {
+        "gender": "Male",
+        "style": "Male \u2022 General American \u2022 Companion & Peer",
+        "description": "Friendly, approachable, and warm voice with a lower-middle pitch. Recommended for casual walkthroughs or vlogs.",
+        "id": "achird",
+        "type": "prebuilt"
+    },
+    "Algenib": {
+        "gender": "Male",
+        "style": "Male \u2022 General American \u2022 Storyteller & Narrator",
+        "description": "Gravelly, grounded, and hard-hitting voice with a low pitch. Recommended for dramatic narration or intense stories.",
+        "id": "algenib",
+        "type": "prebuilt"
+    },
+    "Algieba": {
+        "gender": "Male",
+        "style": "Male \u2022 General American \u2022 High-Trust Advisor",
+        "description": "Smooth, relaxed, and polished voice with a low pitch. Recommended for corporate videos or polished explainers.",
+        "id": "algieba",
+        "type": "prebuilt"
+    },
+    "Alnilam": {
+        "gender": "Male",
+        "style": "Male \u2022 General American \u2022 High-Trust Advisor",
+        "description": "Firm, direct, and commanding voice with a lower-middle pitch. Recommended for authoritative instructions or announcements.",
+        "id": "alnilam",
+        "type": "prebuilt"
+    },
+    "Autonoe": {
+        "gender": "Female",
+        "style": "Female \u2022 General American \u2022 Advertising Pitch & Commerce",
+        "description": "Bright, positive, and enthusiastic voice with a medium pitch. Recommended for promotions or product feature updates.",
+        "id": "autonoe",
+        "type": "prebuilt"
+    },
+    "Callirrhoe": {
+        "gender": "Female",
+        "style": "Female \u2022 General American \u2022 Companion & Peer",
+        "description": "Easy-going, relaxed, and casual voice with a medium pitch. Recommended for friendly guides or casual vlogs.",
+        "id": "callirrhoe",
+        "type": "prebuilt"
+    },
+    "Despina": {
+        "gender": "Female",
+        "style": "Female \u2022 General American \u2022 Educational Tutor",
+        "description": "Smooth, mellow, and polished voice with a medium pitch. Recommended for marketing ads or professional e-learning.",
+        "id": "despina",
+        "type": "prebuilt"
+    },
+    "Enceladus": {
+        "gender": "Male",
+        "style": "Breathy / Gentle",
+        "description": "Breathy, gentle, and quiet masculine voice."
+    },
+    "Erinome": {
+        "gender": "Female",
+        "style": "Clear / Articulate",
+        "description": "Crisp, clear, and articulate feminine voice."
+    },
+    "Gacrux": {
+        "gender": "Female",
+        "style": "Mature / Professional",
+        "description": "Mature, composed, and professional feminine voice."
+    },
+    "Iapetus": {
+        "gender": "Male",
+        "style": "Clear / Resonant",
+        "description": "Clear, resonant, and balanced masculine voice."
+    },
+    "Laomedeia": {
+        "gender": "Female",
+        "style": "Upbeat / Enthusiastic",
+        "description": "Enthusiastic, positive, and vibrant feminine voice."
+    },
+    "Leda": {
+        "gender": "Female",
+        "style": "Youthful / Fresh",
+        "description": "Youthful, modern, and expressive feminine voice."
+    },
+    "Orus": {
+        "gender": "Male",
+        "style": "Firm / Steady",
+        "description": "Firm, grounded, and steady masculine voice."
+    },
+    "Pulcherrima": {
+        "gender": "Male",
+        "style": "Forward / Confident",
+        "description": "Direct, confident, and forward masculine voice."
+    },
+    "Rasalgethi": {
+        "gender": "Male",
+        "style": "Informative / Precise",
+        "description": "Knowledgeable, precise, and articulate masculine voice."
+    },
+    "Sadachbia": {
+        "gender": "Male",
+        "style": "Lively / Expressive",
+        "description": "Lively, expressive, and engaging masculine voice."
+    },
+    "Sadaltager": {
+        "gender": "Male",
+        "style": "Knowledgeable / Sophisticated",
+        "description": "Sophisticated, knowledgeable, and calm masculine voice."
+    },
+    "Schedar": {
+        "gender": "Male",
+        "style": "Even / Balanced",
+        "description": "Even-toned, stable, and neutral masculine voice."
+    },
+    "Sulafat": {
+        "gender": "Female",
+        "style": "Warm / Inviting",
+        "description": "Warm, gentle, and welcoming feminine voice."
+    },
+    "Umbriel": {
+        "gender": "Male",
+        "style": "Mellow / Relaxed",
+        "description": "Mellow, relaxed, and easy-going masculine voice."
+    },
+    "Vindemiatrix": {
+        "gender": "Female",
+        "style": "Gentle / Thoughtful",
+        "description": "Gentle, thoughtful, and serene feminine voice."
+    },
+    "Zubenelgenubi": {
+        "gender": "Male",
+        "style": "Casual / Natural",
+        "description": "Casual, down-to-earth, and natural masculine voice."
+    },
+    "Authoritative Advisor 1": {
+        "gender": "Female",
+        "style": "Female \u2022 Winchester English \u2022 High-Trust Advisor / Authoritative Advisor (Lawyer)",
+        "description": "30-year-old Lawyer from Winchester. Speaks with a Winchester English accent. Currently at a meditation retreat. Tone is professional yet approachable.",
+        "id": "en-gb-advisor-1",
+        "type": "prebuilt"
+    },
+    "Authoritative Advisor 10": {
+        "gender": "Male",
+        "style": "Male \u2022 Bristol English \u2022 High-Trust Advisor / Authoritative Advisor (Lawyer)",
+        "description": "30-year-old Lawyer from Bristol. Speaks with a Bristol English accent. Tone is conversational, slightly dry humor, and warm",
+        "id": "en-gb-advisor-10",
+        "type": "prebuilt"
+    },
+    "Authoritative Advisor 2": {
+        "gender": "Male",
+        "style": "Male \u2022 Manchester English \u2022 Storyteller & Narrator (Lawyer)",
+        "description": "44-year-old Lawyer from Manchester. Speaks with a Manchester English accent. Voice is highly approachable.",
+        "id": "en-gb-advisor-2",
+        "type": "prebuilt"
+    },
+    "Authoritative Advisor 3": {
+        "gender": "Male",
+        "style": "Male \u2022 Bristol English \u2022 High-Trust Advisor / Authoritative Advisor (Lawyer)",
+        "description": "46-year-old Lawyer from Bristol. Speaks with a Bristol English accent. Currently sitting next to you on an airplane. Tone is professional yet approachable.",
+        "id": "en-gb-advisor-3",
+        "type": "prebuilt"
+    },
+    "Digital Assistant 2": {
+        "gender": "Male",
+        "style": "Male \u2022 Winchester English \u2022 Companion & Peer / Digital Assistant (Friend)",
+        "description": "25-year-old Friend from Winchester. Speaks with a Winchester English accent. Currently on the phone. Tone is professional yet approachable.",
+        "id": "en-gb-assistant-2",
+        "type": "prebuilt"
+    },
+    "Digital Assistant 4": {
+        "gender": "Male",
+        "style": "Male \u2022 Winchester English \u2022 Companion & Peer / Digital Assistant (Parent)",
+        "description": "35-year-old Parent from Winchester. Speaks with a Winchester English accent. Currently in a bookstore. Sounds confident and clear.",
+        "id": "en-gb-assistant-4",
+        "type": "prebuilt"
+    },
+    "Commercial Voiceover 12": {
+        "gender": "Male",
+        "style": "Male \u2022 Modern Standard Arabic \u2022 Advertising Pitch & Commerce / Commercial Voiceover (Influencer)",
+        "description": "27-year-old Influencer from the Arab World. Speaks Modern Standard Arabic. Voice is relaxed.",
+        "id": "ar-001-commercial-12",
+        "type": "prebuilt"
+    },
+    "Commercial Voiceover 2": {
+        "gender": "Female",
+        "style": "Female \u2022 Winchester English \u2022 Advertising Pitch & Commerce / Commercial Voiceover (Influencer)",
+        "description": "26-year-old Influencer from Winchester. Speaks with a Winchester English accent. Currently sitting next to you on the bus. Tone is professional yet approachable.",
+        "id": "en-gb-commercial-2",
+        "type": "prebuilt"
+    },
+    "Commercial Voiceover 3": {
+        "gender": "Female",
+        "style": "Female \u2022 Newcastle English \u2022 Advertising Pitch & Commerce / Commercial Voiceover (Influencer)",
+        "description": "23-year-old Influencer from Newcastle. Speaks with a Newcastle English accent. Voice is deep, velvety, and unhurried.",
+        "id": "en-gb-commercial-3",
+        "type": "prebuilt"
+    },
+    "Commercial Voiceover 4": {
+        "gender": "Male",
+        "style": "Male \u2022 Glasgow English \u2022 Advertising Pitch & Commerce / Commercial Voiceover (Influencer)",
+        "description": "24-year-old Influencer from Glasgow. Speaks with a Glasgow English accent. Currently at a meditation retreat. Sounds confident and clear.",
+        "id": "en-gb-commercial-4",
+        "type": "prebuilt"
+    },
+    "Commercial Voiceover 5": {
+        "gender": "Female",
+        "style": "Female \u2022 Winchester English \u2022 Advertising Pitch & Commerce / Commercial Voiceover (Influencer)",
+        "description": "26-year-old Influencer from Winchester. Speaks with a Winchester English accent. Voice is clear, medium-pitch, and friendly.",
+        "id": "en-gb-commercial-5",
+        "type": "prebuilt"
+    },
+    "Commercial Voiceover 7": {
+        "gender": "Male",
+        "style": "Male \u2022 Winchester English \u2022 Advertising Pitch & Commerce / Commercial Voiceover (Influencer)",
+        "description": "27-year-old Influencer from Winchester. Speaks with a Winchester English accent. Voice is crisp and eager.",
+        "id": "en-gb-commercial-7",
+        "type": "prebuilt"
+    },
+    "Concierge 11": {
+        "gender": "Female",
+        "style": "Female \u2022 Bristol English \u2022 Concierge & EA (Executive Assistant)",
+        "description": "36-year-old Executive Assistant from Bristol. Speaks with a Bristol English accent. Currently at an appointment. Tone is professional yet approachable.",
+        "id": "en-gb-concierge-11",
+        "type": "prebuilt"
+    },
+    "Concierge 2": {
+        "gender": "Female",
+        "style": "Female \u2022 Winchester English \u2022 Concierge & EA (Executive Assistant)",
+        "description": "31-year-old Executive Assistant from Winchester. Speaks with a Winchester English accent. Tone is objective, direct, and helpful",
+        "id": "en-gb-concierge-2",
+        "type": "prebuilt"
+    },
+    "Call Center Agent 10": {
+        "gender": "Female",
+        "style": "Female \u2022 Winchester English \u2022 Customer Support Agent / Call Center Agent (Customer Service Agent)",
+        "description": "47-year-old Customer Service Agent from Winchester. Speaks with a Winchester English accent. Tone is enthusiastic, engaging, and fun",
+        "id": "en-gb-csagent-10",
+        "type": "prebuilt"
+    },
+    "Call Center Agent 11": {
+        "gender": "Male",
+        "style": "Male \u2022 Liverpool English \u2022 Customer Support Agent / Call Center Agent (Customer Service Agent)",
+        "description": "36-year-old Customer Service Agent from Liverpool. Speaks with a Liverpool English accent. Voice is comforting someone who is stressed.",
+        "id": "en-gb-csagent-11",
+        "type": "prebuilt"
+    },
+    "Call Center Agent 4": {
+        "gender": "Female",
+        "style": "Female \u2022 Winchester English \u2022 Advertising Pitch & Commerce / Commercial Voiceover (Customer Service Agent)",
+        "description": "35-year-old Customer Service Agent from Winchester. Speaks with a Winchester English accent. Tone is conversational, slightly dry humor, and warm",
+        "id": "en-gb-csagent-4",
+        "type": "prebuilt"
+    },
+    "Call Center Agent 8": {
+        "gender": "Female",
+        "style": "Female \u2022 Winchester English \u2022 Customer Support Agent / Call Center Agent (Customer Service Agent)",
+        "description": "22-year-old Customer Service Agent from Winchester. Speaks with a Winchester English accent. Currently sitting next to you on the bus. Tone is professional yet approachable.",
+        "id": "en-gb-csagent-8",
+        "type": "prebuilt"
+    },
+    "Tech Advisor 10": {
+        "gender": "Female",
+        "style": "Female \u2022 German \u2022 Tech Support Agent / Tech Advisor (Architect)",
+        "description": "37-year-old Architect from Germany. Speaks German. Voice is highly approachable.",
+        "id": "de-de-techagent-10",
+        "type": "prebuilt"
+    },
+    "Tech Advisor 11": {
+        "gender": "Male",
+        "style": "Male \u2022 German \u2022 Tech Support Agent / Tech Advisor (Architect)",
+        "description": "30-year-old Architect from Germany. Speaks German. Voice is cool, confident, and collaborative.",
+        "id": "de-de-techagent-11",
+        "type": "prebuilt"
+    },
+    "Tech Advisor 2": {
+        "gender": "Female",
+        "style": "Female \u2022 Glasgow English \u2022 Tech Support Agent / Tech Advisor",
+        "description": "41-year-old Tech Support Agent from Glasgow. Speaks with a Glasgow English accent. Currently in an oscar winning film. Voice is warm and engaging.",
+        "id": "en-gb-techagent-2",
+        "type": "prebuilt"
+    },
+    "Tech Advisor 4": {
+        "gender": "Female",
+        "style": "Female \u2022 Manchester English \u2022 Tech Support Agent / Tech Advisor (Architect)",
+        "description": "39-year-old Architect from Manchester. Speaks with a Manchester English accent. Voice is light, airy, and precise",
+        "id": "en-gb-techagent-4",
+        "type": "prebuilt"
+    },
+    "Training Voiceover 1": {
+        "gender": "Male",
+        "style": "Male \u2022 Winchester English \u2022 Video Voiceover & Host / Training Voiceover (Instructional Video Host)",
+        "description": "55-year-old Instructional Video Host from Winchester. Speaks with a Winchester English accent. Currently sitting next to you on the bus. Sounds confident and clear.",
+        "id": "en-gb-training-1",
+        "type": "prebuilt"
+    },
+    "Training Voiceover 12": {
+        "gender": "Male",
+        "style": "Male \u2022 Bristol English \u2022 Video Voiceover & Host / Training Voiceover (Instructional Video Host)",
+        "description": "41-year-old Instructional Video Host from Bristol. Speaks with a Bristol English accent. Voice is fast-paced, articulate, energetic.",
+        "id": "en-gb-training-12",
+        "type": "prebuilt"
+    },
+    "Training Voiceover 2": {
+        "gender": "Female",
+        "style": "Female \u2022 Winchester English \u2022 Video Voiceover & Host / Training Voiceover (Instructional Video Host)",
+        "description": "64-year-old Instructional Video Host from Winchester. Speaks with a Winchester English accent. Voice is natural and clear.",
+        "id": "en-gb-training-2",
+        "type": "prebuilt"
+    },
+    "Tutor 1": {
+        "gender": "Female",
+        "style": "Female \u2022 Winchester English \u2022 Tech Support Agent / Tech Advisor (Librarian)",
+        "description": "29-year-old Librarian from Winchester. Speaks with a Winchester English accent. Currently sitting next to you on the bus. Sounds confident and clear.",
+        "id": "en-gb-tutor-1",
+        "type": "prebuilt"
+    },
+    "Tutor 2": {
+        "gender": "Male",
+        "style": "Male \u2022 Toronto English \u2022 Educational Tutor (Chess Instructor)",
+        "description": "33-year-old Chess Instructor from Toronto. Speaks with a Toronto English accent. Voice is cool, confident, and collaborative.",
+        "id": "en-ca-tutor-2",
+        "type": "prebuilt"
+    },
+    "Tutor 3": {
+        "gender": "Male",
+        "style": "Male \u2022 Vancouver English \u2022 Educational Tutor (Chess Instructor)",
+        "description": "55-year-old Chess Instructor from Vancouver. Speaks with a Vancouver English accent. Currently sitting next to you on the bus. Sounds confident and clear.",
+        "id": "en-ca-tutor-3",
+        "type": "prebuilt"
+    },
+    "Tutor 4": {
+        "gender": "Female",
+        "style": "Female \u2022 Toronto English \u2022 Educational Tutor (Music Teacher)",
+        "description": "58-year-old Music Teacher from Toronto. Speaks with a Toronto English accent. Voice is clear, medium-pitch, and friendly.",
+        "id": "en-ca-tutor-4",
+        "type": "prebuilt"
+    },
+    "Authoritative Advisor 11": {
+        "gender": "Female",
+        "style": "Female \u2022 Glasgow English \u2022 High-Trust Advisor / Authoritative Advisor (Lawyer)",
+        "description": "44-year-old Lawyer from Glasgow. Speaks with a Glasgow English accent. Currently on npr. Sounds confident and clear.",
+        "id": "en-gb-advisor-11",
+        "type": "prebuilt"
+    },
+    "Authoritative Advisor 12": {
+        "gender": "Female",
+        "style": "Female \u2022 Newcastle English \u2022 High-Trust Advisor / Authoritative Advisor (Lawyer)",
+        "description": "43-year-old Lawyer from Newcastle. Speaks with a Newcastle English accent. Voice is engaging and empathic.",
+        "id": "en-gb-advisor-12",
+        "type": "prebuilt"
+    },
+    "Authoritative Advisor 4": {
+        "gender": "Female",
+        "style": "Female \u2022 Winchester English \u2022 High-Trust Advisor / Authoritative Advisor (Financial Advisor)",
+        "description": "30-year-old Financial Advisor from Winchester. Speaks with a Winchester English accent. Voice is textured, resonant, and soothing.",
+        "id": "en-gb-advisor-4",
+        "type": "prebuilt"
+    },
+    "Authoritative Advisor 5": {
+        "gender": "Male",
+        "style": "Male \u2022 Manchester English \u2022 High-Trust Advisor / Authoritative Advisor (Financial Advisor)",
+        "description": "48-year-old Financial Advisor from Manchester. Speaks with a Manchester English accent. Currently in an indie film. Voice is warm and engaging.",
+        "id": "en-gb-advisor-5",
+        "type": "prebuilt"
+    },
+    "Authoritative Advisor 6": {
+        "gender": "Female",
+        "style": "Female \u2022 Winchester English \u2022 High-Trust Advisor / Authoritative Advisor (Financial Advisor)",
+        "description": "46-year-old Financial Advisor from Winchester. Speaks with a Winchester English accent. Currently sitting next to you on the bus. Tone is professional yet approachable.",
+        "id": "en-gb-advisor-6",
+        "type": "prebuilt"
+    },
+    "Authoritative Advisor 7": {
+        "gender": "Female",
+        "style": "Female \u2022 Newcastle English \u2022 High-Trust Advisor / Authoritative Advisor (Lawyer)",
+        "description": "30-year-old Lawyer from Newcastle. Speaks with a Newcastle English accent. Voice is highly approachable.",
+        "id": "en-gb-advisor-7",
+        "type": "prebuilt"
+    },
+    "Authoritative Advisor 8": {
+        "gender": "Male",
+        "style": "Male \u2022 Winchester English \u2022 High-Trust Advisor / Authoritative Advisor (Doctor)",
+        "description": "42-year-old Doctor from Winchester. Speaks with a Winchester English accent. Voice is crisp and eager.",
+        "id": "en-gb-advisor-8",
+        "type": "prebuilt"
+    },
+    "Authoritative Advisor 9": {
+        "gender": "Male",
+        "style": "Male \u2022 Glasgow English \u2022 High-Trust Advisor / Authoritative Advisor (Lawyer)",
+        "description": "50-year-old Lawyer from Glasgow. Speaks with a Glasgow English accent. Voice is engaging and empathic.",
+        "id": "en-gb-advisor-9",
+        "type": "prebuilt"
+    },
+    "Digital Assistant 1": {
+        "gender": "Female",
+        "style": "Female \u2022 Winchester English \u2022 Companion & Peer / Digital Assistant (Sibling)",
+        "description": "35-year-old Sibling from Winchester. Speaks with a Winchester English accent. Voice is natural and clear.",
+        "id": "en-gb-assistant-1",
+        "type": "prebuilt"
+    },
+    "Digital Assistant 10": {
+        "gender": "Male",
+        "style": "Male \u2022 Winchester English \u2022 Companion & Peer / Digital Assistant (Parent)",
+        "description": "32-year-old Parent from Winchester. Speaks with a Winchester English accent. Tone is enthusiastic, engaging, and fun",
+        "id": "en-gb-assistant-10",
+        "type": "prebuilt"
+    },
+    "Digital Assistant 11": {
+        "gender": "Neutral",
+        "style": "Neutral \u2022 Bristol English \u2022 Companion & Peer / Digital Assistant (Parent)",
+        "description": "38-year-old Parent from Bristol. Speaks with a Bristol English accent. Voice is deep, velvety, and unhurried.",
+        "id": "en-gb-assistant-11",
+        "type": "prebuilt"
+    },
+    "Digital Assistant 12": {
+        "gender": "Female",
+        "style": "Female \u2022 Manchester English \u2022 Companion & Peer / Digital Assistant (Parent)",
+        "description": "38-year-old Parent from Manchester. Speaks with a Manchester English accent. Voice is highly approachable.",
+        "id": "en-gb-assistant-12",
+        "type": "prebuilt"
+    },
+    "Digital Assistant 3": {
+        "gender": "Female",
+        "style": "Female \u2022 Manchester English \u2022 Storyteller & Narrator (Aunt/Uncle)",
+        "description": "45-year-old Aunt/Uncle from Manchester. Speaks with a Manchester English accent. Voice is comforting someone who is stressed.",
+        "id": "en-gb-assistant-3",
+        "type": "prebuilt"
+    },
+    "Digital Assistant 5": {
+        "gender": "Male",
+        "style": "Male \u2022 Glasgow English \u2022 Companion & Peer / Digital Assistant (Friend)",
+        "description": "62-year-old Friend from Glasgow. Speaks with a Glasgow English accent. Currently sitting next to you on an airplane. Tone is professional yet approachable.",
+        "id": "en-gb-assistant-5",
+        "type": "prebuilt"
+    },
+    "Digital Assistant 6": {
+        "gender": "Female",
+        "style": "Female \u2022 Glasgow English \u2022 Companion & Peer / Digital Assistant (Parent)",
+        "description": "35-year-old Parent from Glasgow. Speaks with a Glasgow English accent. Voice is crisp and eager.",
+        "id": "en-gb-assistant-6",
+        "type": "prebuilt"
+    },
+    "Digital Assistant 7": {
+        "gender": "Female",
+        "style": "Female \u2022 Liverpool English \u2022 Companion & Peer / Digital Assistant (Parent)",
+        "description": "47-year-old Parent from Liverpool. Speaks with a Liverpool English accent. Voice is laid-back, encouraging, and chill.",
+        "id": "en-gb-assistant-7",
+        "type": "prebuilt"
+    },
+    "Digital Assistant 8": {
+        "gender": "Male",
+        "style": "Male \u2022 Bristol English \u2022 Companion & Peer / Digital Assistant (Friend)",
+        "description": "39-year-old Friend from Bristol. Speaks with a Bristol English accent. Voice is crisp and eager.",
+        "id": "en-gb-assistant-8",
+        "type": "prebuilt"
+    },
+    "Digital Assistant 9": {
+        "gender": "Female",
+        "style": "Female \u2022 Newcastle English \u2022 Companion & Peer / Digital Assistant (Parent)",
+        "description": "30-year-old Parent from Newcastle. Speaks with a Newcastle English accent. Tone is reflective, calm, and reassuring",
+        "id": "en-gb-assistant-9",
+        "type": "prebuilt"
+    },
+    "Commercial Voiceover 1": {
+        "gender": "Female",
+        "style": "Female \u2022 Winchester English \u2022 Advertising Pitch & Commerce / Commercial Voiceover (Influencer)",
+        "description": "23-year-old Influencer from Winchester. Speaks with a Winchester English accent. Voice is textured, resonant, and soothing.",
+        "id": "en-gb-commercial-1",
+        "type": "prebuilt"
+    },
+    "Commercial Voiceover 10": {
+        "gender": "Female",
+        "style": "Female \u2022 Egyptian Arabic \u2022 Advertising Pitch & Commerce / Commercial Voiceover (Influencer)",
+        "description": "28-year-old Influencer from Egypt. Speaks Egyptian Arabic. Voice is engaging and empathic.",
+        "id": "ar-eg-commercial-10",
+        "type": "prebuilt"
+    },
+    "Commercial Voiceover 11": {
+        "gender": "Male",
+        "style": "Male \u2022 Egyptian Arabic \u2022 Advertising Pitch & Commerce / Commercial Voiceover (Influencer)",
+        "description": "28-year-old Influencer from Egypt. Speaks Egyptian Arabic. Tone is objective, direct, and helpful",
+        "id": "ar-eg-commercial-11",
+        "type": "prebuilt"
+    },
+    "Commercial Voiceover 13": {
+        "gender": "Female",
+        "style": "Female \u2022 Egyptian Arabic \u2022 Advertising Pitch & Commerce / Commercial Voiceover (Fashion Consultant)",
+        "description": "65-year-old Fashion Consultant from Egypt. Speaks Egyptian Arabic. Voice is energetic, colorful, and fast",
+        "id": "ar-eg-commercial-13",
+        "type": "prebuilt"
+    },
+    "Commercial Voiceover 6": {
+        "gender": "Female",
+        "style": "Female \u2022 Winchester English \u2022 Advertising Pitch & Commerce / Commercial Voiceover (Influencer)",
+        "description": "26-year-old Influencer from Winchester. Speaks with a Winchester English accent. Voice is comforting someone who is stressed.",
+        "id": "en-gb-commercial-6",
+        "type": "prebuilt"
+    },
+    "Commercial Voiceover 8": {
+        "gender": "Female",
+        "style": "Female \u2022 Newcastle English \u2022 Advertising Pitch & Commerce / Commercial Voiceover (Influencer)",
+        "description": "21-year-old Influencer from Newcastle. Speaks with a Newcastle English accent. Voice is textured, resonant, and soothing.",
+        "id": "en-gb-commercial-8",
+        "type": "prebuilt"
+    },
+    "Commercial Voiceover 9": {
+        "gender": "Female",
+        "style": "Female \u2022 Winchester English \u2022 Advertising Pitch & Commerce / Commercial Voiceover (Influencer)",
+        "description": "25-year-old Influencer from Winchester. Speaks with a Winchester English accent. Voice is engaging and empathic.",
+        "id": "en-gb-commercial-9",
+        "type": "prebuilt"
+    },
+    "Concierge 1": {
+        "gender": "Male",
+        "style": "Male \u2022 Bristol English \u2022 Concierge & EA (Executive Assistant)",
+        "description": "37-year-old Executive Assistant from Bristol. Speaks with a Bristol English accent. Voice is deep, velvety, and unhurried.",
+        "id": "en-gb-concierge-1",
+        "type": "prebuilt"
+    },
+    "Concierge 10": {
+        "gender": "Male",
+        "style": "Male \u2022 Liverpool English \u2022 Concierge & EA (Hotel Concierge)",
+        "description": "64-year-old Hotel Concierge from Liverpool. Speaks with a Liverpool English accent. Voice is deep, velvety, and unhurried.",
+        "id": "en-gb-concierge-10",
+        "type": "prebuilt"
+    },
+    "Concierge 12": {
+        "gender": "Male",
+        "style": "Male \u2022 Newcastle English \u2022 Concierge & EA (Hotel Concierge)",
+        "description": "57-year-old Hotel Concierge from Newcastle. Speaks with a Newcastle English accent. Voice is crisp and eager.",
+        "id": "en-gb-concierge-12",
+        "type": "prebuilt"
+    },
+    "Concierge 3": {
+        "gender": "Male",
+        "style": "Male \u2022 Manchester English \u2022 Concierge & EA (Executive Assistant)",
+        "description": "38-year-old Executive Assistant from Manchester. Speaks with a Manchester English accent. Currently on npr. Voice is warm and engaging.",
+        "id": "en-gb-concierge-3",
+        "type": "prebuilt"
+    },
+    "Concierge 4": {
+        "gender": "Female",
+        "style": "Female \u2022 Winchester English \u2022 Concierge & EA (Executive Assistant)",
+        "description": "31-year-old Executive Assistant from Winchester. Speaks with a Winchester English accent. Currently in an oscar winning film. Tone is professional yet approachable.",
+        "id": "en-gb-concierge-4",
+        "type": "prebuilt"
+    },
+    "Concierge 5": {
+        "gender": "Female",
+        "style": "Female \u2022 Winchester English \u2022 Concierge & EA (Executive Assistant)",
+        "description": "31-year-old Executive Assistant from Winchester. Speaks with a Winchester English accent. Tone is objective, direct, and helpful",
+        "id": "en-gb-concierge-5",
+        "type": "prebuilt"
+    },
+    "Concierge 6": {
+        "gender": "Female",
+        "style": "Female \u2022 Winchester English \u2022 Concierge & EA (Tour Guide)",
+        "description": "28-year-old Tour Guide from Winchester. Speaks with a Winchester English accent. Currently sitting next to you on the bus. Tone is professional yet approachable.",
+        "id": "en-gb-concierge-6",
+        "type": "prebuilt"
+    },
+    "Concierge 7": {
+        "gender": "Female",
+        "style": "Female \u2022 Winchester English \u2022 Concierge & EA (Tour Guide)",
+        "description": "58-year-old Tour Guide from Winchester. Speaks with a Winchester English accent. Currently on npr. Sounds confident and clear.",
+        "id": "en-gb-concierge-7",
+        "type": "prebuilt"
+    },
+    "Concierge 8": {
+        "gender": "Male",
+        "style": "Male \u2022 Glasgow English \u2022 Concierge & EA (Tour Guide)",
+        "description": "62-year-old Tour Guide from Glasgow. Speaks with a Glasgow English accent. Currently in an indie film. Tone is professional yet approachable.",
+        "id": "en-gb-concierge-8",
+        "type": "prebuilt"
+    },
+    "Concierge 9": {
+        "gender": "Male",
+        "style": "Male \u2022 Newcastle English \u2022 Concierge & EA (Hotel Concierge)",
+        "description": "25-year-old Hotel Concierge from Newcastle. Speaks with a Newcastle English accent. Currently brainstorming in a meeting. Sounds confident and clear.",
+        "id": "en-gb-concierge-9",
+        "type": "prebuilt"
+    },
+    "Call Center Agent 1": {
+        "gender": "Female",
+        "style": "Female \u2022 Manchester English \u2022 Customer Support Agent / Call Center Agent (Customer Service Agent)",
+        "description": "35-year-old Customer Service Agent from Manchester. Speaks with a Manchester English accent. Currently at a meditation retreat. Sounds confident and clear.",
+        "id": "en-gb-csagent-1",
+        "type": "prebuilt"
+    },
+    "Call Center Agent 12": {
+        "gender": "Male",
+        "style": "Male \u2022 Newcastle English \u2022 Customer Support Agent / Call Center Agent (Customer Service Agent)",
+        "description": "45-year-old Customer Service Agent from Newcastle. Speaks with a Newcastle English accent. Voice is light, airy, and precise",
+        "id": "en-gb-csagent-12",
+        "type": "prebuilt"
+    },
+    "Call Center Agent 2": {
+        "gender": "Female",
+        "style": "Female \u2022 Winchester English \u2022 Advertising Pitch & Commerce / Commercial Voiceover (Customer Service Agent)",
+        "description": "33-year-old Customer Service Agent from Winchester. Speaks with a Winchester English accent. Tone is reflective, calm, and reassuring",
+        "id": "en-gb-csagent-2",
+        "type": "prebuilt"
+    },
+    "Call Center Agent 3": {
+        "gender": "Male",
+        "style": "Male \u2022 Manchester English \u2022 Customer Support Agent / Call Center Agent (Customer Service Agent)",
+        "description": "62-year-old Customer Service Agent from Manchester. Speaks with a Manchester English accent. Voice is cool, confident, and collaborative.",
+        "id": "en-gb-csagent-3",
+        "type": "prebuilt"
+    },
+    "Call Center Agent 5": {
+        "gender": "Male",
+        "style": "Male \u2022 Liverpool English \u2022 Customer Support Agent / Call Center Agent (Social Worker)",
+        "description": "38-year-old Social Worker from Liverpool. Speaks with a Liverpool English accent. Currently on podcast. Voice is warm and engaging.",
+        "id": "en-gb-csagent-5",
+        "type": "prebuilt"
+    },
+    "Call Center Agent 6": {
+        "gender": "Female",
+        "style": "Female \u2022 Winchester English \u2022 Customer Support Agent / Call Center Agent (Social Worker)",
+        "description": "23-year-old Social Worker from Winchester. Speaks with a Winchester English accent. Currently sitting on couch. Tone is professional yet approachable.",
+        "id": "en-gb-csagent-6",
+        "type": "prebuilt"
+    },
+    "Call Center Agent 7": {
+        "gender": "Male",
+        "style": "Male \u2022 Winchester English \u2022 Customer Support Agent / Call Center Agent (Social Worker)",
+        "description": "29-year-old Social Worker from Winchester. Speaks with a Winchester English accent. Voice is clear, medium-pitch, and friendly.",
+        "id": "en-gb-csagent-7",
+        "type": "prebuilt"
+    },
+    "Call Center Agent 9": {
+        "gender": "Female",
+        "style": "Female \u2022 Glasgow English \u2022 Advertising Pitch & Commerce / Commercial Voiceover (Customer Service Agent)",
+        "description": "27-year-old Customer Service Agent from Glasgow. Speaks with a Glasgow English accent. Voice is textured, resonant, and soothing.",
+        "id": "en-gb-csagent-9",
+        "type": "prebuilt"
+    },
+    "Podcaster 1": {
+        "gender": "Male",
+        "style": "Male \u2022 Winchester English \u2022 Tech Support Agent / Tech Advisor (Radio Host)",
+        "description": "31-year-old Radio Host from Winchester. Speaks with a Winchester English accent. Voice is intimate talkshow.",
+        "id": "en-gb-podcaster-1",
+        "type": "prebuilt"
+    },
+    "Podcaster 10": {
+        "gender": "Female",
+        "style": "Female \u2022 Winchester English \u2022 Companion & Peer / Digital Assistant (Podcast Interviewer)",
+        "description": "48-year-old Podcast Interviewer from Winchester. Speaks with a Winchester English accent. Currently sitting on couch. Tone is professional yet approachable.",
+        "id": "en-gb-podcaster-10",
+        "type": "prebuilt"
+    },
+    "Podcaster 11": {
+        "gender": "Male",
+        "style": "Male \u2022 Liverpool English \u2022 Companion & Peer / Digital Assistant (Radio Host)",
+        "description": "57-year-old Radio Host from Liverpool. Speaks with a Liverpool English accent. Tone is objective, direct, and helpful",
+        "id": "en-gb-podcaster-11",
+        "type": "prebuilt"
+    },
+    "Podcaster 12": {
+        "gender": "Female",
+        "style": "Female \u2022 Bristol English \u2022 Companion & Peer / Digital Assistant (Podcast Interviewer)",
+        "description": "58-year-old Podcast Interviewer from Bristol. Speaks with a Bristol English accent. Currently on npr. Sounds confident and clear.",
+        "id": "en-gb-podcaster-12",
+        "type": "prebuilt"
+    },
+    "Podcaster 2": {
+        "gender": "Female",
+        "style": "Female \u2022 Winchester English \u2022 News & Podcast Host / Podcaster (Radio Host)",
+        "description": "49-year-old Radio Host from Winchester. Speaks with a Winchester English accent. Currently in an indie film. Tone is professional yet approachable.",
+        "id": "en-gb-podcaster-2",
+        "type": "prebuilt"
+    },
+    "Podcaster 3": {
+        "gender": "Female",
+        "style": "Female \u2022 Winchester English \u2022 News & Podcast Host / Podcaster (Radio Host)",
+        "description": "42-year-old Radio Host from Winchester. Speaks with a Winchester English accent. Currently at a meditation retreat. Sounds confident and clear.",
+        "id": "en-gb-podcaster-3",
+        "type": "prebuilt"
+    },
+    "Podcaster 4": {
+        "gender": "Male",
+        "style": "Male \u2022 Winchester English \u2022 News & Podcast Host / Podcaster (Radio Host)",
+        "description": "22-year-old Radio Host from Winchester. Speaks with a Winchester English accent. Tone is objective, direct, and helpful",
+        "id": "en-gb-podcaster-4",
+        "type": "prebuilt"
+    },
+    "Podcaster 5": {
+        "gender": "Male",
+        "style": "Male \u2022 Glasgow English \u2022 News & Podcast Host / Podcaster (Radio Host)",
+        "description": "41-year-old Radio Host from Glasgow. Speaks with a Glasgow English accent. Tone is objective, direct, and helpful",
+        "id": "en-gb-podcaster-5",
+        "type": "prebuilt"
+    },
+    "Podcaster 6": {
+        "gender": "Female",
+        "style": "Female \u2022 Newcastle English \u2022 News & Podcast Host / Podcaster (Podcast Interviewer)",
+        "description": "31-year-old Podcast Interviewer from Newcastle. Speaks with a Newcastle English accent. Currently on the phone. Sounds confident and clear.",
+        "id": "en-gb-podcaster-6",
+        "type": "prebuilt"
+    },
+    "Podcaster 7": {
+        "gender": "Female",
+        "style": "Female \u2022 Manchester English \u2022 Companion & Peer / Digital Assistant (Podcast Interviewer)",
+        "description": "39-year-old Podcast Interviewer from Manchester. Speaks with a Manchester English accent. Voice is highly approachable.",
+        "id": "en-gb-podcaster-7",
+        "type": "prebuilt"
+    },
+    "Podcaster 8": {
+        "gender": "Male",
+        "style": "Male \u2022 Glasgow English \u2022 News & Podcast Host / Podcaster (Podcast Interviewer)",
+        "description": "37-year-old Podcast Interviewer from Glasgow. Speaks with a Glasgow English accent. Voice is relaxed.",
+        "id": "en-gb-podcaster-8",
+        "type": "prebuilt"
+    },
+    "Podcaster 9": {
+        "gender": "Male",
+        "style": "Male \u2022 Manchester English \u2022 Companion & Peer / Digital Assistant (Podcast Interviewer)",
+        "description": "45-year-old Podcast Interviewer from Manchester. Speaks with a Manchester English accent. Tone is objective, direct, and helpful",
+        "id": "en-gb-podcaster-9",
+        "type": "prebuilt"
+    },
+    "Storyteller 1": {
+        "gender": "Male",
+        "style": "Male \u2022 Bristol English \u2022 Storyteller & Narrator (Nature Documentary Narrator)",
+        "description": "27-year-old Nature Documentary Narrator from Bristol. Speaks with a Bristol English accent. Voice is comforting someone who is stressed.",
+        "id": "en-gb-storyteller-1",
+        "type": "prebuilt"
+    },
+    "Storyteller 10": {
+        "gender": "Male",
+        "style": "Male \u2022 Egyptian Arabic \u2022 Storyteller & Narrator (Philosopher)",
+        "description": "49-year-old Philosopher from Egypt. Speaks Egyptian Arabic. Currently on npr. Sounds confident and clear.",
+        "id": "ar-eg-storyteller-10",
+        "type": "prebuilt"
+    },
+    "Storyteller 11": {
+        "gender": "Female",
+        "style": "Female \u2022 Egyptian Arabic \u2022 Storyteller & Narrator",
+        "description": "35-year-old Storyteller from Egypt. Speaks Egyptian Arabic. Voice is light, airy, and precise",
+        "id": "ar-eg-storyteller-11",
+        "type": "prebuilt"
+    },
+    "Storyteller 12": {
+        "gender": "Female",
+        "style": "Female \u2022 Egyptian Arabic \u2022 Storyteller & Narrator",
+        "description": "62-year-old Storyteller from Egypt. Speaks Egyptian Arabic. Voice is clear, medium-pitch, and friendly.",
+        "id": "ar-eg-storyteller-12",
+        "type": "prebuilt"
+    },
+    "Storyteller 2": {
+        "gender": "Female",
+        "style": "Female \u2022 Winchester English \u2022 Storyteller & Narrator (Nature Documentary Narrator)",
+        "description": "51-year-old Nature Documentary Narrator from Winchester. Speaks with a Winchester English accent. Voice is resonant and witty.",
+        "id": "en-gb-storyteller-2",
+        "type": "prebuilt"
+    },
+    "Storyteller 3": {
+        "gender": "Female",
+        "style": "Female \u2022 Newcastle English \u2022 Storyteller & Narrator (Nature Documentary Narrator)",
+        "description": "33-year-old Nature Documentary Narrator from Newcastle. Speaks with a Newcastle English accent. Currently on npr. Voice is warm and engaging.",
+        "id": "en-gb-storyteller-3",
+        "type": "prebuilt"
+    },
+    "Storyteller 4": {
+        "gender": "Male",
+        "style": "Male \u2022 Bristol English \u2022 Storyteller & Narrator (Nature Documentary Narrator)",
+        "description": "56-year-old Nature Documentary Narrator from Bristol. Speaks with a Bristol English accent. Voice is deep, velvety, and unhurried.",
+        "id": "en-gb-storyteller-4",
+        "type": "prebuilt"
+    },
+    "Storyteller 5": {
+        "gender": "Female",
+        "style": "Female \u2022 Newcastle English \u2022 Storyteller & Narrator (Nature Documentary Narrator)",
+        "description": "41-year-old Nature Documentary Narrator from Newcastle. Speaks with a Newcastle English accent. Voice is highly approachable.",
+        "id": "en-gb-storyteller-5",
+        "type": "prebuilt"
+    },
+    "Storyteller 6": {
+        "gender": "Female",
+        "style": "Female \u2022 Toronto English \u2022 Storyteller & Narrator",
+        "description": "64-year-old Storyteller from Toronto. Speaks with a Toronto English accent. Voice is bright, breezy, and youthful.",
+        "id": "en-ca-storyteller-6",
+        "type": "prebuilt"
+    },
+    "Storyteller 7": {
+        "gender": "Female",
+        "style": "Female \u2022 Toronto English \u2022 Storyteller & Narrator",
+        "description": "63-year-old Storyteller from Toronto. Speaks with a Toronto English accent. Voice is energetic, colorful, and fast",
+        "id": "en-ca-storyteller-7",
+        "type": "prebuilt"
+    },
+    "Storyteller 8": {
+        "gender": "Male",
+        "style": "Male \u2022 Vancouver English \u2022 Storyteller & Narrator (Philosopher)",
+        "description": "44-year-old Philosopher from Vancouver. Speaks with a Vancouver English accent. Voice is highly approachable.",
+        "id": "en-ca-storyteller-8",
+        "type": "prebuilt"
+    },
+    "Storyteller 9": {
+        "gender": "Male",
+        "style": "Male \u2022 Egyptian Arabic \u2022 Storyteller & Narrator (Nature Documentary Narrator)",
+        "description": "38-year-old Nature Documentary Narrator from Egypt. Speaks Egyptian Arabic. Currently on npr. Tone is professional yet approachable.",
+        "id": "ar-eg-storyteller-9",
+        "type": "prebuilt"
+    },
+    "Tech Advisor 1": {
+        "gender": "Female",
+        "style": "Female \u2022 Bristol English \u2022 Tech Support Agent / Tech Advisor",
+        "description": "27-year-old Tech Support Agent from Bristol. Speaks with a Bristol English accent. Currently brainstorming in a meeting. Sounds confident and clear.",
+        "id": "en-gb-techagent-1",
+        "type": "prebuilt"
+    },
+    "Tech Advisor 12": {
+        "gender": "Female",
+        "style": "Female \u2022 German \u2022 Tech Support Agent / Tech Advisor",
+        "description": "41-year-old Tech Support Agent from Germany. Speaks German. Tone is conversational, slightly dry humor, and warm",
+        "id": "de-de-techagent-12",
+        "type": "prebuilt"
+    },
+    "Tech Advisor 3": {
+        "gender": "Male",
+        "style": "Male \u2022 Glasgow English \u2022 Tech Support Agent / Tech Advisor",
+        "description": "55-year-old Tech Support Agent from Glasgow. Speaks with a Glasgow English accent. Tone is reflective, calm, and reassuring",
+        "id": "en-gb-techagent-3",
+        "type": "prebuilt"
+    },
+    "Tech Advisor 5": {
+        "gender": "Female",
+        "style": "Female \u2022 Glasgow English \u2022 Tech Support Agent / Tech Advisor",
+        "description": "26-year-old Tech Support Agent from Glasgow. Speaks with a Glasgow English accent. Currently sitting on couch. Voice is warm and engaging.",
+        "id": "en-gb-techagent-5",
+        "type": "prebuilt"
+    },
+    "Tech Advisor 6": {
+        "gender": "Female",
+        "style": "Female \u2022 Manchester English \u2022 Tech Support Agent / Tech Advisor",
+        "description": "35-year-old Tech Support Agent from Manchester. Speaks with a Manchester English accent. Tone is conversational, slightly dry humor, and warm",
+        "id": "en-gb-techagent-6",
+        "type": "prebuilt"
+    },
+    "Tech Advisor 7": {
+        "gender": "Female",
+        "style": "Female \u2022 Manchester English \u2022 Tech Support Agent / Tech Advisor (Architect)",
+        "description": "47-year-old Architect from Manchester. Speaks with a Manchester English accent. Currently brainstorming in a meeting. Sounds confident and clear.",
+        "id": "en-gb-techagent-7",
+        "type": "prebuilt"
+    },
+    "Tech Advisor 8": {
+        "gender": "Female",
+        "style": "Female \u2022 Manchester English \u2022 Tech Support Agent / Tech Advisor (Architect)",
+        "description": "43-year-old Architect from Manchester. Speaks with a Manchester English accent. Voice is cool, confident, and collaborative.",
+        "id": "en-gb-techagent-8",
+        "type": "prebuilt"
+    },
+    "Tech Advisor 9": {
+        "gender": "Female",
+        "style": "Female \u2022 German \u2022 Tech Support Agent / Tech Advisor (Architect)",
+        "description": "49-year-old Architect from Germany. Speaks German. Voice is natural and clear.",
+        "id": "de-de-techagent-9",
+        "type": "prebuilt"
+    },
+    "Training Voiceover 10": {
+        "gender": "Male",
+        "style": "Male \u2022 Winchester English \u2022 Tech Support Agent / Tech Advisor (Cooking Show Host)",
+        "description": "38-year-old Cooking Show Host from Winchester. Speaks with a Winchester English accent. Currently in an oscar winning film. Tone is professional yet approachable.",
+        "id": "en-gb-training-10",
+        "type": "prebuilt"
+    },
+    "Training Voiceover 11": {
+        "gender": "Male",
+        "style": "Male \u2022 Newcastle English \u2022 Video Voiceover & Host / Training Voiceover (Cooking Show Host)",
+        "description": "53-year-old Cooking Show Host from Newcastle. Speaks with a Newcastle English accent. Voice is relaxed.",
+        "id": "en-gb-training-11",
+        "type": "prebuilt"
+    },
+    "Training Voiceover 3": {
+        "gender": "Male",
+        "style": "Male \u2022 Winchester English \u2022 Video Voiceover & Host / Training Voiceover (Instructional Video Host)",
+        "description": "24-year-old Instructional Video Host from Winchester. Speaks with a Winchester English accent. Tone is objective, direct, and helpful",
+        "id": "en-gb-training-3",
+        "type": "prebuilt"
+    },
+    "Training Voiceover 4": {
+        "gender": "Female",
+        "style": "Female \u2022 Manchester English \u2022 Video Voiceover & Host / Training Voiceover (Instructional Video Host)",
+        "description": "26-year-old Instructional Video Host from Manchester. Speaks with a Manchester English accent. Voice is comforting someone who is stressed.",
+        "id": "en-gb-training-4",
+        "type": "prebuilt"
+    },
+    "Training Voiceover 5": {
+        "gender": "Female",
+        "style": "Female \u2022 Newcastle English \u2022 Video Voiceover & Host / Training Voiceover (Instructional Video Host)",
+        "description": "29-year-old Instructional Video Host from Newcastle. Speaks with a Newcastle English accent. Currently at an appointment. Sounds confident and clear.",
+        "id": "en-gb-training-5",
+        "type": "prebuilt"
+    },
+    "Training Voiceover 6": {
+        "gender": "Female",
+        "style": "Female \u2022 Liverpool English \u2022 Video Voiceover & Host / Training Voiceover (Instructional Video Host)",
+        "description": "61-year-old Instructional Video Host from Liverpool. Speaks with a Liverpool English accent. Currently in an oscar winning film. Voice is warm and engaging.",
+        "id": "en-gb-training-6",
+        "type": "prebuilt"
+    },
+    "Training Voiceover 7": {
+        "gender": "Female",
+        "style": "Female \u2022 Glasgow English \u2022 Video Voiceover & Host / Training Voiceover (Instructional Video Host)",
+        "description": "25-year-old Instructional Video Host from Glasgow. Speaks with a Glasgow English accent. Voice is comforting someone who is stressed.",
+        "id": "en-gb-training-7",
+        "type": "prebuilt"
+    },
+    "Training Voiceover 8": {
+        "gender": "Male",
+        "style": "Male \u2022 Glasgow English \u2022 Video Voiceover & Host / Training Voiceover (Instructional Video Host)",
+        "description": "41-year-old Instructional Video Host from Glasgow. Speaks with a Glasgow English accent. Currently on npr. Voice is warm and engaging.",
+        "id": "en-gb-training-8",
+        "type": "prebuilt"
+    },
+    "Training Voiceover 9": {
+        "gender": "Female",
+        "style": "Female \u2022 Manchester English \u2022 Video Voiceover & Host / Training Voiceover (Cooking Show Host)",
+        "description": "37-year-old Cooking Show Host from Manchester. Speaks with a Manchester English accent. Voice is bright, breezy, and youthful.",
+        "id": "en-gb-training-9",
+        "type": "prebuilt"
+    },
+    "Tutor 10": {
+        "gender": "Female",
+        "style": "Female \u2022 Winchester English \u2022 Tech Support Agent / Tech Advisor (Librarian)",
+        "description": "58-year-old Librarian from Winchester. Speaks with a Winchester English accent. Voice is natural and clear.",
+        "id": "en-gb-tutor-10",
+        "type": "prebuilt"
+    },
+    "Tutor 11": {
+        "gender": "Female",
+        "style": "Female \u2022 Winchester English \u2022 Educational Tutor (Music Teacher)",
+        "description": "59-year-old Music Teacher from Winchester. Speaks with a Winchester English accent. Currently in an oscar winning film. Voice is warm and engaging.",
+        "id": "en-gb-tutor-11",
+        "type": "prebuilt"
+    },
+    "Tutor 12": {
+        "gender": "Female",
+        "style": "Female \u2022 Winchester English \u2022 Storyteller & Narrator (Therapist)",
+        "description": "32-year-old Therapist from Winchester. Speaks with a Winchester English accent. Voice is deep, velvety, and unhurried.",
+        "id": "en-gb-tutor-12",
+        "type": "prebuilt"
+    },
+    "Tutor 5": {
+        "gender": "Female",
+        "style": "Female \u2022 Toronto English \u2022 Educational Tutor (Chess Instructor)",
+        "description": "37-year-old Chess Instructor from Toronto. Speaks with a Toronto English accent. Voice is relaxed.",
+        "id": "en-ca-tutor-5",
+        "type": "prebuilt"
+    },
+    "Tutor 6": {
+        "gender": "Male",
+        "style": "Male \u2022 Toronto English \u2022 Educational Tutor (Chess Instructor)",
+        "description": "62-year-old Chess Instructor from Toronto. Speaks with a Toronto English accent. Currently in a bookstore. Sounds confident and clear.",
+        "id": "en-ca-tutor-6",
+        "type": "prebuilt"
+    },
+    "Tutor 7": {
+        "gender": "Female",
+        "style": "Female \u2022 Toronto English \u2022 Coach & Motivational Guide (Fitness Trainer)",
+        "description": "53-year-old Fitness Trainer from Toronto. Speaks with a Toronto English accent. Voice is highly approachable.",
+        "id": "en-ca-tutor-7",
+        "type": "prebuilt"
+    },
+    "Tutor 8": {
+        "gender": "Neutral",
+        "style": "Neutral \u2022 Vancouver English \u2022 Educational Tutor (Teacher)",
+        "description": "27-year-old Teacher from Vancouver. Speaks with a Vancouver English accent. Currently sitting next to you on an airplane. Sounds confident and clear.",
+        "id": "en-ca-tutor-8",
+        "type": "prebuilt"
+    },
+    "Tutor 9": {
+        "gender": "Female",
+        "style": "Female \u2022 German \u2022 Educational Tutor (Professor)",
+        "description": "24-year-old Professor from Germany. Speaks German. Voice is engaging and empathic.",
+        "id": "de-de-tutor-9",
+        "type": "prebuilt"
+    },
+    "Call Center Agent 13": {
+        "gender": "Male",
+        "style": "Male \u2022 Bristol English \u2022 Customer Support Agent / Call Center Agent (Customer Service Agent)",
+        "description": "22-year-old Customer Service Agent from Bristol. Speaks with a Bristol English accent. Currently at an appointment. Tone is professional yet approachable.",
+        "id": "en-gb-csagent-13",
+        "type": "prebuilt"
+    },
+    "Call Center Agent 14": {
+        "gender": "Male",
+        "style": "Male \u2022 Bristol English \u2022 Customer Support Agent / Call Center Agent (Customer Service Agent)",
+        "description": "57-year-old Customer Service Agent from Bristol. Speaks with a Bristol English accent. Voice is crisp and eager.",
+        "id": "en-gb-csagent-14",
+        "type": "prebuilt"
+    },
+    "Tutor 13": {
+        "gender": "Female",
+        "style": "Female \u2022 Winchester English \u2022 Storyteller & Narrator (Therapist)",
+        "description": "33-year-old Therapist from Winchester. Speaks with a Winchester English accent. Voice is clear, medium-pitch, and friendly.",
+        "id": "en-gb-tutor-13",
+        "type": "prebuilt"
+    },
+    "Tutor 14": {
+        "gender": "Male",
+        "style": "Male \u2022 Winchester English \u2022 Educational Tutor",
+        "description": "32-year-old Tutor from Winchester. Speaks with a Winchester English accent. Currently on the phone. Sounds confident and clear.",
+        "id": "en-gb-tutor-14",
+        "type": "prebuilt"
+    },
+    "Tutor 15": {
+        "gender": "Female",
+        "style": "Female \u2022 Manchester English \u2022 Coach & Motivational Guide (Lifestyle Coach)",
+        "description": "32-year-old Lifestyle Coach from Manchester. Speaks with a Manchester English accent. Currently on podcast. Voice is warm and engaging.",
+        "id": "en-gb-tutor-15",
+        "type": "prebuilt"
+    }
+}

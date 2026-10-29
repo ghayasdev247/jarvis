@@ -1,0 +1,41 @@
+{
+  "routines": [
+    {
+      "id": "morning_brief",
+      "name": "Morning Briefing Routine",
+      "schedule": "Every weekday at 09:00 AM",
+      "enabled": true,
+      "steps": [
+        "Check today's Google Calendar agenda",
+        "Fetch local weather forecast",
+        "Compile yesterday's git commits for morning standup",
+        "Summarize unread priority emails"
+      ],
+      "last_run": "Yesterday at 09:00 AM"
+    },
+    {
+      "id": "dev_health_check",
+      "name": "Dev Environment Diagnostics",
+      "schedule": "Every day at 12:00 PM",
+      "enabled": true,
+      "steps": [
+        "Query running Docker containers and resource usage",
+        "Probe API and Redis service ports",
+        "Check Tailscale mesh connectivity"
+      ],
+      "last_run": "Today at 12:00 PM"
+    },
+    {
+      "id": "eod_wrapup",
+      "name": "End-of-Day Wrap-Up",
+      "schedule": "Every weekday at 06:00 PM",
+      "enabled": true,
+      "steps": [
+        "Generate End-of-Day summary of shipped work",
+        "Check pending Jira tickets in current sprint",
+        "Back up configuration and profile state"
+      ],
+      "last_run": "Yesterday at 06:00 PM"
+    }
+  ]
+}

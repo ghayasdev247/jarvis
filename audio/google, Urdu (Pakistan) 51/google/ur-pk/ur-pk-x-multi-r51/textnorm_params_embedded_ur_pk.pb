@@ -1,0 +1,1 @@
+ÐØ’Arab’Latn’Zyyyš[a-zA-Z]¢[a-z]ÂurÊpk

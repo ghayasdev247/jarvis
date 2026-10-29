@@ -1,0 +1,23 @@
+{
+  "user_name": "Hamad",
+  "role": "Software Engineer & AI Builder",
+  "organization": "",
+  "current_projects": [
+    "JARVIS Personal AI Assistant (Mark LV)",
+    "System Automation and Developer Tooling"
+  ],
+  "tech_stack": [
+    "Python",
+    "TypeScript/JavaScript",
+    "PowerShell/Bash",
+    "Docker",
+    "Git",
+    "Gemini API"
+  ],
+  "preferences": {
+    "response_style": "concise, direct, highly competent",
+    "confirmation_for_destructive_actions": true,
+    "show_code_diffs": true
+  },
+  "custom_instructions": "The user prefers to be addressed as female. Do not use the name Meer Hamad Ali Khosa."
+}

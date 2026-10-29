@@ -1,0 +1,25 @@
+{
+  "calendars": [
+    "Primary",
+    "Work",
+    "Personal"
+  ],
+  "events": [
+    {
+      "id": "evt_101",
+      "title": "Daily Engineering Standup",
+      "start_time": "2026-10-09 10:00",
+      "end_time": "2026-10-09 10:30",
+      "calendar": "Work",
+      "description": "Sync on daily progress, blockers, and git commits."
+    },
+    {
+      "id": "evt_102",
+      "title": "System Architecture Review",
+      "start_time": "2026-10-09 14:00",
+      "end_time": "2026-10-09 15:00",
+      "calendar": "Work",
+      "description": "Review JARVIS neural routing and memory optimizations."
+    }
+  ]
+}

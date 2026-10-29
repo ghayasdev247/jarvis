@@ -1,0 +1,36 @@
+{
+  "user_email": "hamad@jarvis.internal",
+  "inbox": [
+    {
+      "id": "msg_001",
+      "sender": "alex.dev@github.com",
+      "subject": "PR #42 merged: Neural LLM router streaming optimization",
+      "snippet": "All tests passed cleanly in CI. Docker deployment container is live.",
+      "date": "2026-10-09 08:30",
+      "read": false
+    },
+    {
+      "id": "msg_002",
+      "sender": "team@jira.atlassian.net",
+      "subject": "Assigned to JARV-101: Codebase TODO scanner",
+      "snippet": "Hamad has been assigned to JARV-101. Sprint finishes Friday.",
+      "date": "2026-10-09 09:15",
+      "read": false
+    }
+  ],
+  "drafts": [],
+  "sent": [
+    {
+      "to": "hamadali152515@gmail.com",
+      "subject": "Message from JARVIS Assistant",
+      "body": "",
+      "sent_at": "2026-10-10 15:22:03"
+    },
+    {
+      "to": "ha2093537@gmail.com",
+      "subject": "Message from JARVIS Assistant",
+      "body": "",
+      "sent_at": "2026-10-10 15:22:34"
+    }
+  ]
+}

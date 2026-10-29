@@ -1,0 +1,38 @@
+{
+  "enabled": false,
+  "ai_smart_reply": true,
+  "platforms": [
+    "whatsapp",
+    "messenger",
+    "telegram"
+  ],
+  "schedule": {
+    "mode": "manual",
+    "after_hours_start": "18:00",
+    "after_hours_end": "09:00"
+  },
+  "templates": {
+    "busy": "Hello! I am currently focused in a meeting and will get back to you shortly.",
+    "away": "Hi there! I am currently away from my desk. I will review your message as soon as I return.",
+    "urgent": "Thank you for reaching out. If this is critical, please call me directly."
+  },
+  "rules": [
+    {
+      "trigger_keywords": [
+        "pricing",
+        "cost",
+        "rates"
+      ],
+      "reply_template": "Thanks for asking about pricing! I'll share our project estimate shortly."
+    },
+    {
+      "trigger_keywords": [
+        "meeting",
+        "schedule",
+        "call"
+      ],
+      "reply_template": "I'm available later today. Let me check my calendar and confirm a slot."
+    }
+  ],
+  "history": []
+}

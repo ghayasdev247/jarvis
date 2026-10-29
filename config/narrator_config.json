@@ -1,0 +1,9 @@
+{
+  "enabled": false,
+  "auto_narrate": false,
+  "default_urdu_voice": "ur-PK-AsadNeural",
+  "default_english_voice": "en-US-GuyNeural",
+  "speed": "0%",
+  "volume": "+0%",
+  "current_language": "auto"
+}

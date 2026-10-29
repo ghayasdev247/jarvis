@@ -1,0 +1,4 @@
+{"timestamp": "2026-10-09T00:31:10.417923", "action": "SANITIZED", "destination": "local", "redactions": 0, "sample": "Hello from router test", "notes": "Guarded (Redacted 0)"}
+{"timestamp": "2026-10-09T01:13:10.754959", "action": "SANITIZED", "destination": "cloud", "redactions": 0, "sample": "What is 2 + 2?", "notes": "Guarded (Redacted 0)"}
+{"timestamp": "2026-10-09T01:14:06.171382", "action": "SANITIZED", "destination": "cloud", "redactions": 0, "sample": "What is the capital of France?", "notes": "Guarded (Redacted 0)"}
+{"timestamp": "2026-10-23T23:38:03.789429", "action": "SANITIZED", "destination": "cloud", "redactions": 0, "sample": "sarak kiye gal kar haan mere naal jara.", "notes": "Guarded (Redacted 0)"}
